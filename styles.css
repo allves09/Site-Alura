@@ -148,3 +148,8 @@ body {
 .lista_link a: active {
     color: purple;
 }
+
+.container_botao: houver {
+    background-color: var(--botao-azul-efeito);
+    color: var(--cor-de-fundo);
+}
